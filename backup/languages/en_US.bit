@@ -1,0 +1,27 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'Backup/Restore Manager',
+	'DESCRIPTION'=>'This plugin allows you backup and restore your blog content and manage the archives on your server.',
+	'DATAPATH'=>'Backup Directory',
+	'DATAPATH_TIP'=>'This is the directory where your backups are to be stored on your server.',
+	'ARCHIVES'=>'Archives',
+	'FILESIZE'=>'File Size',
+	'DATE'=>'Date',
+	'ACTIONS'=>'Actions',
+	'DOWNLOAD'=>'Download',
+	'BACKUP'=>'Backup',
+	'BACKUP_CREATE'=>'Take a backup',
+	'BACKUP_SUCCESSFUL'=>'Successfully created the ZIP Archive!',
+	'BACKUP_FAILED'=>'There was a problem writing the ZIP archive.',
+	'DELETE'=>'Delete',
+	'DELETE_BACKUP'=>'Delete this backup?',
+	'DELETE_SUCCESSFUL'=>'Successfully deleted file!',
+	'DELETE_FAILED'=>'An error occurred while deleting the file.',
+	'RESTORE'=>'Restore',
+	'RESTORE_BACKUP'=>'Do you want to restore this backup?',
+	'RESTORE_SUCCESSFUL'=>'Archive is restored!',
+	'RESTORE_FAILED'=>'There was a problem to restore the ZIP archive!'
+);
+
+?>
