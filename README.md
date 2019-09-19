@@ -10,3 +10,5 @@ Easy, fast and free CMS Blog. All you need is PHP to work.
 
 http://www.nibbleblog.com
 https://github.com/dignajar/nibbleblog
+
+v1.0.2
